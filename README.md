@@ -16,7 +16,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white" />-->
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
 Apaixonado por tecnologias, transformamos ideias usando código.
